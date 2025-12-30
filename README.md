@@ -13,7 +13,7 @@ Per the project requirements, the application has been deployed as two separate 
 
 ## System Architecture
 
-![System Architecture Diagram](./Architecture.jpg)
+![System Architecture Diagram](./Architecture.png)
 
 ### Architecture Breakdown
 As illustrated in the diagram above, the system relies on a **"Single Repo, Dual Deployment"** strategy:
