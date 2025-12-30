@@ -24,12 +24,6 @@ export default function Home() {
           <p className="text-gray-500 font-medium">Register with your company details.</p>
         </Link>
       </div>
-      
-      <div className="mt-12">
-        <Link href="/admin" className="text-gray-400 hover:text-gray-800 text-sm font-semibold transition-colors underline decoration-gray-300 underline-offset-4">
-          Go to Admin Dashboard
-        </Link>
-      </div>
     </div>
   );
 }
